@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src"https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fanushkayadav&psig=AOvVaw2odD7d7KRSQmRE9elu1sro&ust=1691062262433000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjki43xvYADFQAAAAAdAAAAABAE"  />
+  <img height="150" src"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stocklib.fr%2Fmedia-126259713%2Fcute-smiling-girl-sitting-at-laptop-and-learning-web-design-and-coding-vector-illustration-isolated-on-white-background-design-for-bunner-poster-or-website.html&psig=AOvVaw18bkDmScb2vmYypgZqjo6G&ust=1691063684200000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIi-_aP1vYADFQAAAAAdAAAAABAK"  />
 </div>
 
 
@@ -22,14 +22,14 @@
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hey👋 there </h1>
 
 ###
 
 <h3 align="left">👩‍💻👉 About Me</h3>
 
 ###
-<p align="left">I'm Swarnali Mukherjee<br><br>- 👩‍🎓 B.Tech Final year student in Electronic and Communication Engineering <br>- 📚 Currently focused to learn Full Stack <br>- 👩🏻‍💻 Interested about AI & ML <br>-⚡ Like to watch cartoons and do designings in leisure time</p>
+<p align="left"> 👱🏻‍♀ I'm Swarnali Mukherjee<br><br>- 👩‍🎓 B.Tech Final year student in Electronic and Communication Engineering <br>- 📚✏ Currently focused to learn Full Stack <br>- 👩🏻‍💻 Interested about AI & ML <br>-⚡ Like to watch cartoons and do designings in leisure time</p>
 
 ###
 
