@@ -1,6 +1,7 @@
 <div align="center">
-  <img height="150" src="profileimg.png"  />
+  <img height="150" src"https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fanushkayadav&psig=AOvVaw2odD7d7KRSQmRE9elu1sro&ust=1691062262433000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjki43xvYADFQAAAAAdAAAAABAE"  />
 </div>
+
 
 ###
 
@@ -25,11 +26,10 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻👉 About Me</h3>
 
 ###
-
-<p align="left">Myself Swarnali Mukherjee<br><br>- 🔭 Final year student of B.Tech in Electronic and Communication Engineering<br>- 📚 I'm currently learning MERN Stack and AI<br>- ⚡ In my free time I like to watch cartoons and do designings</p>
+<p align="left">I'm Swarnali Mukherjee<br><br>- 👩‍🎓 B.Tech Final year student in Electronic and Communication Engineering <br>- 📚 Currently focused to learn Full Stack <br>- 👩🏻‍💻 Interested about AI & ML <br>-⚡ Like to watch cartoons and do designings in leisure time</p>
 
 ###
 
