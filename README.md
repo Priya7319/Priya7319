@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">👱🏻‍♀ I'm Swarnali Mukherjee<br><br>- 👩‍🎓 B.Tech Final year student in Electronics and Communication Engineering<br>- 📚✏ Currently focused to learn Full Stack<br>- 👩🏻‍💻 Interested about AI & ML<br>-⚡ Like to watch cartoons and do designings in leisure time</p>
+<p align="left">👱🏻‍♀ I'm Swarnali Mukherjee<br><br>- 👩‍🎓 B.Tech Final year student of Electronics and Communication Engineering<br>- 📚✏ Currently focused to learn Full Stack<br>- 👩🏻‍💻 Interested about AI & ML<br>-⚡ Like to watch cartoons and do designings in leisure time</p>
 
 ###
 
